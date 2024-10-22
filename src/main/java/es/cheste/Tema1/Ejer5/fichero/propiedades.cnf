@@ -1,0 +1,13 @@
+# Configuración de la aplicación
+app.name=MiAplicacion
+app.version=1.0.0
+app.author=Juan Perez
+
+# Configuración de la base de datos
+db.url=jdbc:mysql://localhost:3306/mibasededatos
+db.username=usuario
+db.password=contraseña
+
+# Configuración del servidor
+server.port=8080
+server.host=localhost

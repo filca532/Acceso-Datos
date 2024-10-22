@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modulos>
+    <modul>
+        <nom>Accés a Dades</nom>
+        <hores>6</hores>
+        <qualificació>8.45</qualificació>
+    </modul>
+    <modul>
+        <nom>Programació de serveis i processos</nom>
+        <hores>3</hores>
+        <qualificació>9.0</qualificació>
+    </modul>
+    <modul>
+        <nom>Desenvolupament d'interfícies</nom>
+        <hores>6</hores>
+        <qualificació>8.0</qualificació>
+    </modul>
+    <modul>
+        <nom>Programació Multimédia i dispositiud mòbils</nom>
+        <hores>5</hores>
+        <qualificació>7.34</qualificació>
+    </modul>
+    <modul>
+        <nom>Sistemes de Gestió Empresarial</nom>
+        <hores>5</hores>
+        <qualificació>8.2</qualificació>
+    </modul>
+    <modul>
+        <nom>Empresa i iniciativa emprenedora</nom>
+        <hores>3</hores>
+        <qualificació>7.4</qualificació>
+    </modul>
+</modulos>
